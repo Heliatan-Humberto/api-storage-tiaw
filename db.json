@@ -1,17 +1,6 @@
 {
-  "clientes": [
-    {
-      "id": 1,
-      "nome": "João da Silva",
-      "telefone": "123456789",
-      "endereco": "Rua dos Animais, 123"
-    },
-    {
-      "id": 2,
-      "nome": "Maria Souza",
-      "telefone": "987654321",
-      "endereco": "Avenida dos Pets, 456"
-    }
+  "inscricoes": [
+   
   ],
   "animais": [
     {
